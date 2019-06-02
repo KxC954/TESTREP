@@ -1,1 +1,2 @@
-worker:server.py
+worker: Server.py
+worker: Client.py
